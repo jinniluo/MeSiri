@@ -1,0 +1,55 @@
+originalText,joy,text_type,sadness,keywordSentimentType,disgust,keywordText,anger,fear,keywordSentimentScore,keywordRelevance,lead
+Hi,0,Questions,0,positive,0,Hi,0,0,0.501268,0.967917,0
+"Hi Jinni, What can I do for you?",0.601367,Answers,0.170085,positive,0.067852,Hi Jinni,0.133681,0.071616,0.422957,0.976508,1
+How are you today?,0.407952,Questions,0.251524,,0.104271,,0.156567,0.147729,,,1
+I'm feeling lucky.How can I help?,0.336575,Answers,0.381011,,0.04184,,0.192366,0.075233,,,1
+How old are you?,0.146169,Questions,0.477686,,0.102844,,0.166718,0.178914,,,1
+Old enough to know not to judge a book by its cover.But young enough to find the poop emoji funny.,0.126501,Answers,0.449012,positive,0.091912,poop,0.34642,0.090634,0.323701,0.973209,0
+what's your gender?,0.575339,Questions,0.131507,negative,0.155081,gender,0.09268,0.112419,-0.346207,0.937546,1
+I'm all-inclusive .,0.506631,Answers,0.295184,,0.071544,,0.093233,0.086543,,,0
+When is your birthday?,0.709576,Questions,0.052132,positive,0.054525,birthday,0.024746,0.198393,0.458439,0.936838,1
+I tried to live every day like my birthday. I get more cake that way.,0.708735,Answers,0.239093,positive,0.011934,cake,0.049791,0.037208,0.248297,0.919488,0
+Where do you live?,0.508276,Questions,0.120373,,0.068506,,0.066838,0.30436,,,1
+I live in the cloud. I'd like to also think I live in your heart,0.1693,Answers,0.434349,negative,0.065182,cloud,0.088108,0.314187,-0.217278,0.931249,0
+Where are you from?,0.113535,Questions,0.504929,,0.1074,,0.122887,0.251571,,,1
+"I'm from Google's headquarters in Moutain View, CA",0.290743,Answers,0.391454,neutral,0.076734,Moutain View,0.150194,0.168412,,0.912016,0
+What makes you nostalgic?,0.838461,Questions,0.049374,,0.062647,,0.084188,0.022929,,,1
+"I find myself getting nostalgic for March 2016, my days were so simple back then.",0.700134,Answers,0.249767,,0.026626,,0.042051,0.03056,,,0
+Do you have a face?,0.22365,Questions,0.29394,negative,0.080341,face,0.085502,0.398021,-0.209967,0.989699,1
+"Sorry, I'm not sure how to help with that question",0.034272,Answers,0.441258,negative,0.120562,question,0.41396,0.098427,-0.460214,0.954685,0
+What's your eye color?,0.725224,Questions,0.071272,positive,0.139342,eye color,0.068119,0.051493,0.452345,0.965652,1
+"If I had eyes, I'd want them to be sparkly.",0.442279,Answers,0.356405,neutral,0.115997,eyes,0.11628,0.077066,,0.987668,0
+What's your job?,0.606313,Questions,0.153016,positive,0.13197,job,0.078661,0.105554,0.438173,0.91615,1
+"I'm here to help you find info, get stuff done, and have fun.",0.702913,Answers,0.159018,positive,0.017609,stuff,0.135883,0.045085,0.381894,0.941061,0
+what did you do today?,0.528727,Questions,0.204622,,0.071347,,0.062279,0.199239,,,1
+"I just did some research, and played some games.",0.582858,Answers,0.15907,neutral,0.080337,research,0.236545,0.029725,,0.962234,0
+What is your favorite food?,0.384649,Questions,0.212157,positive,0.186338,favorite food,0.035839,0.235149,0.656869,0.937399,1
+"I don't eat much, but when I do, I take megabytes. Left me know if you want me to find food for you.",0.162575,Answers,0.511446,neutral,0.22292,megabytes,0.149676,0.05269,,0.96544,0
+What's your morning routine?,0.700712,Questions,0.140303,positive,0.146034,morning routine,0.041932,0.031312,0.241188,0.943001,1
+"I clear my cache for a fresh start, then I have my coffee.",0.714193,Answers,0.233254,positive,0.049878,fresh start,0.054512,0.027858,0.648483,0.943676,0
+What is your favorite moive?,0.378481,Questions,0.176208,positive,0.064433,favorite moive,0.038039,0.389337,0.680596,0.97706,1
+I really like superhero movies. My super power would be super searching.,0.404593,Answers,0.461291,positive,0.012447,superhero movies,0.073953,0.109346,0.795786,0.939421,0
+Do you like animals?,0.144418,Questions,0.230546,positive,0.412626,animals,0.167699,0.146916,0.357585,0.91615,1
+I love Animals. I was just learning about the hoatzin.,0.255141,Answers,0.386168,neutral,0.166347,hoatzin,0.183036,0.073896,,0.955257,0
+Which kind of music do you usually listen to?,0.559797,Questions,0.118009,positive,0.044035,kind,0.190119,0.194717,0.553541,0.952499,1
+I've been getting into whale songs lately. So good.,0.720258,Answers,0.23551,neutral,0.030582,whale songs,0.051193,0.030165,,0.95301,0
+Have you ever felt scared?,0.06571,Questions,0.105,,0.020679,,0.03184,0.811598,,,1
+"Don't think so, but I'm not sure.",0.021706,Answers,0.838341,,0.02159,,0.115899,0.086561,,,0
+Do you have friend?,0.556657,Questions,0.290986,neutral,0.062807,friend,0.042817,0.101068,,0.961865,1
+I have tons of friends. I guess you could call me a people person.,0.218854,Answers,0.437189,negative,0.139891,people person,0.21636,0.079097,-0.220732,0.915738,0
+Have you ever seen snow?.,0.343182,Questions,0.403473,neutral,0.123514,snow,0.136533,0.076787,,0.996387,1
+I don't think I have.,0.094776,Answers,0.616895,,0.111328,,0.141557,0.131836,,,0
+What's your hobby?,0.688947,Questions,0.092392,positive,0.143077,hobby,0.062975,0.070621,0.286412,0.922696,1
+"I like jokes, especially the funny parts.",0.17483,Answers,0.409446,positive,0.26843,funny parts,0.154839,0.084718,0.50204,0.960836,0
+Who are your parents?,0.109564,Questions,0.400953,positive,0.152542,parents,0.141492,0.262194,0.330087,0.91615,1
+The engineers tha built me are like my family. I've been planning a family vacation to Google Mars. It'll be out of this world.,0.212737,Answers,0.619827,positive,0.059427,engineers tha,0.099211,0.058563,0.47442,0.960466,0
+What are you doing today?,0.570579,Questions,0.183867,,0.049169,,0.131495,0.117652,,,1
+Just learning some riddles. Let me know if you want to try one.,0.225053,Answers,0.378417,neutral,0.06118,riddles,0.231975,0.21369,,0.989573,0
+What's your favorite color?,0.760642,Questions,0.115359,positive,0.080448,favorite color,0.049904,0.037463,0.721802,0.937399,1
+"I like blue, red , yellow and green. Google's color.What do you like?",0.596529,Answers,0.171791,positive,0.074053,Google,0.167409,0.056673,0.53673,0.919699,1
+Have you ever felt tired?,0.232129,Questions,0.51633,,0.071028,,0.204652,0.046793,,,1
+"Sorry, I don't understand.",0.030703,Answers,0.635949,,0.136826,,0.276066,0.04121,,,0
+How many languages do you speak?,0.26349,Questions,0.134884,neutral,0.298512,languages,0.074311,0.315855,,0.932581,1
+Right now I'm fluent in code. Still improving my English. And hopping to someday speak high Valyrian.,0.133197,Answers,0.586012,neutral,0.083578,high Valyrian,0.100759,0.159485,,0.950427,0
+Bye,0,Questions,0,negative,0,Bye,0,0,-0.304441,0.998905,0
+I'll be here,0.45061,Answers,0.364926,,0.014558,,0.088745,0.142169,,,0

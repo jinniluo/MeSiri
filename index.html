@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Early Prototype of the basic conversation transcripts with Siri</title>
+        
+
+        <link rel="stylesheet" type="text/css" href="layout/style.css">
+        <link rel="stylesheet" type="text/css" href="layout/typed.css">
+       
+    </head>
+    <body>
+        <div class="canvas">
+            <button id="go">Go</button>
+            <div id="dialogue">
+                <div class="user">
+                    <h1>Me:</h1>
+                </div>
+                
+                
+                <div class="chatbot">
+                    <h1>GoogleAllo:</h1>
+
+                </div>
+                
+            </div>
+            
+            
+            
+            <div id="plot">  
+            </div>
+            
+            
+            <div id="tooltip">
+                <p><span id="type"></span></p>  
+                <p>Original Text: <span id="original"></span></p>
+                <p>Sentiment Score: <span id="sentiment"></span></p>             
+            </div>
+        </div>
+        <script src="./modules/d3/d3.min.js"></script>
+        <script src="./modules/jquery/dist/jquery.min.js"></script>
+        <script src="./modules/queue/queue.min.js"></script>
+        <script src="./modules/typed/typed.js"></script>
+        <script src="script.js"></script>
+    </body>
+        
+</html>    
